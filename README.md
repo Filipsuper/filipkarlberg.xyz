@@ -1,2 +1,4 @@
-# Source code for https://filipkarlberg.xyz
-This is my personal website/portfolio
+# Source code of https://filipkarlberg.xyz
+# This is my personal website/portfolio
+
+Built using react with tailwind.
