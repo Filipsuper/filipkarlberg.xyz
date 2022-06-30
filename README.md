@@ -4,4 +4,6 @@ The goal was to make a terminal-like website as I think the aesthetic is cool :P
 
 Built using react and tailwind.
 
-![image](https://user-images.githubusercontent.com/90701667/176708590-4ac6a95a-c2aa-4f63-9f95-dc958c5e0747.png)
+![image](https://user-images.githubusercontent.com/90701667/176708686-28e775d0-ec39-4c77-aae5-35c87c18530d.png)
+
+![image](https://user-images.githubusercontent.com/90701667/176708751-eb322121-72fe-43a3-9847-3a1ea99c0c77.png)
