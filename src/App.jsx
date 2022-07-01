@@ -32,7 +32,6 @@ function App() {
         <Console changeText={setDisplayText} btnClick={normal}/>
       </section>
       <Footer btnClick={setNormal}/>
-      
     </main>
   );
 }
