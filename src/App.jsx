@@ -25,7 +25,6 @@ function App() {
                 )
               })}
             </pre>
-            
           </ul>
       </article>
       <section className="flex flex-col sm:flex-row">
