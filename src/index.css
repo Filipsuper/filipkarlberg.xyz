@@ -19,8 +19,7 @@
       @apply bg-slate-900;
       @apply rounded-xl;
       @apply backdrop-blur-sm;
-      @apply aspect-square;
-      @apply w-full;
+      @apply w-80;
       @apply flex;
       @apply justify-center;
       @apply items-center;
