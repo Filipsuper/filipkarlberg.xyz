@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22c884c0.css",
+    "main.js": "/static/js/main.edc94b49.js",
+    "static/media/gusti.jpg": "/static/media/gusti.831a3de77a4e3290358c.jpg",
+    "static/media/Electron.png": "/static/media/Electron.b22adaa49b103395d78a.png",
+    "static/media/F1.png": "/static/media/F1.a872a8a058df30a2bd04.png",
+    "static/media/React.png": "/static/media/React.f6b89d232c9bc9f828e5.png",
+    "static/media/Tailwind.png": "/static/media/Tailwind.36b2728bf0d14b7b7576.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.87b2b41e1d703d5fc6c1.png",
+    "static/media/css.png": "/static/media/css.84de5dab5fab27f4161c.png",
+    "static/media/Typescript.png": "/static/media/Typescript.5415cac28606f3e5240d.png",
+    "static/media/Nodejs.png": "/static/media/Nodejs.8e341cc00e4ec40c6a27.png",
+    "static/media/Wordle.png": "/static/media/Wordle.975f2fe5c0efdcbfdf38.png",
+    "static/media/2048.png": "/static/media/2048.849abc912127d2f94a28.png",
+    "index.html": "/index.html",
+    "main.22c884c0.css.map": "/static/css/main.22c884c0.css.map",
+    "main.edc94b49.js.map": "/static/js/main.edc94b49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c884c0.css",
+    "static/js/main.edc94b49.js"
+  ]
+}
